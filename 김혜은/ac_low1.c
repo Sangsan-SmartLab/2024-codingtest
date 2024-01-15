@@ -1,6 +1,6 @@
 int main(void)
 {
-    int a;
-    scanf("%d", &a);
-    printf("%d", a - 543);
+    int yr;
+    scanf("%d", &yr);
+    printf("%d", yr - 2333);
 }
