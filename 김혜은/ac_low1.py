@@ -1,2 +1,2 @@
 yr = int(input())
-print(yr-543)
+print(yr-2333)
