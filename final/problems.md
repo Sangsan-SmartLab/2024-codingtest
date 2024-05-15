@@ -20,7 +20,7 @@
 ```
 #### 문의
 [김혜은](https://github.com/HyeeunKim07)
-***
+
 > ### 02. 검증수
 
 #### 문제
@@ -81,9 +81,9 @@ P.S 문제와는 상관 없는 이야기
 ```
 #### 문의
 [김혜은](https://github.com/HyeeunKim07)
-***
+
 ## Difficulty Middle
-***
+
 > ### 01. 코딩 대회 상금을 받고 싶어요!
 
 #### 문제
@@ -109,7 +109,7 @@ P.S 문제와는 상관 없는 이야기
 ```
 #### 문의
 [김혜은](https://github.com/HyeeunKim07)
-***
+
 > ### 02. Now I know my abc
 
 #### 문제
@@ -136,7 +136,7 @@ Sangsan
 ```
 #### 문의
 [김혜은](https://github.com/HyeeunKim07)
-***
+
 ## Difficulty High
 ***
 > ### 01 카드 뽑기 놀이
