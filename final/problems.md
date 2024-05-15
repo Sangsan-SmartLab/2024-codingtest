@@ -1,7 +1,5 @@
 # SMARTLAB Coding Test
-***
 ## Difficulty Low
-***
 > ### 01. 올해는 4357년?
 
 #### 문제
@@ -43,7 +41,7 @@
 ```
 #### 문의
 [김혜은](https://github.com/HyeeunKim07)
-***
+
 > ### 03. 그래서 CU는 어디 있다고?
 
 #### 문제
